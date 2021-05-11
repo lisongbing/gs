@@ -1,0 +1,11 @@
+INT_Idx,INT_ShopID,STR_desc,INT_Fly,STR_Animation,STR_Sound
+1,1,拖鞋,1,txie,song_Tuoxie
+2,2,鲜花,0,rose,song_Hua
+3,3,鸡蛋,1,egg,song_Jidan
+4,4,亲吻,0,chun,song_Feiwen
+5,5,鞭炮,1,boom,song_Bianpao
+6,6,红包,0,hbao,song_Hongbao
+7,7,红酒,0,jbei,song_Ganbei
+8,8,麻将,1,mj,song_Majiang
+9,9,香烟,0,dhji,song_Yan
+10,10,番茄,1,fqie,song_Fanqie

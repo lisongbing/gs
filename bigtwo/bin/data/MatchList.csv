@@ -1,0 +1,4 @@
+INT_id,INT_baseScore,INT_limit,INT_type
+1,1,0,1
+2,5,50,2
+3,10,100,2
