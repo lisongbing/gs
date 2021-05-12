@@ -1,4 +1,0 @@
-INT_id,INT_luck_lv,INT_luck_upgrade,INT_luck_downgrade,INT_luck_increase,INT_luck_reduce,INT_luck_lowerlimit,INT_luck_upperlimit
-1,0,0,0,10,-10,50,150
-2,1,60,30,30,-10,50,150
-3,2,240,120,10,-30,50,150
